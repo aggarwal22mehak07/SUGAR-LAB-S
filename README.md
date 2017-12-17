@@ -1,4 +1,4 @@
 # SUGAR-LAB-S
-Hello Hugar Labs
+Hello Sugar Labs
 I am Mehak Aggarwal.
 This is my first pull request.
